@@ -18,7 +18,7 @@ Boost is a dynamic and engaging basic rocket game using the Unity engine and C#.
 
 ## Installation
 To get started with Boost, follow these steps:
-1. Clone the repository:
+1. Clone the master repository:
    ```sh
    git clone https://github.com/Epicslooyer/Boost.git
 
