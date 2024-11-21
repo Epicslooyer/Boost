@@ -6,8 +6,6 @@ Game developed in Unity with C#
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Boost is a dynamic and engaging basic rocket game using the Unity engine and C#. This project aims to provide an immersive gaming experience with high-quality physics and interactive gameplay.
